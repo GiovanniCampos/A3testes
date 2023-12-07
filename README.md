@@ -6,4 +6,7 @@ Pedro Henrique Nori Takara - RA: 12522173620
 Victor Cruz do Nascimento - RA: 1252225631
 Cauê Santos Costa - RA: 12522138069
 Eduardo Bartilotti de Moraes - 12522136790
+
 Necessário jdk 1.8 para o código funcionar
+
+Código Feito na IDE Spring Tool Suite
